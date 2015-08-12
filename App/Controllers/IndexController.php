@@ -6,4 +6,3 @@ class Index extends Controller
 		$this->redirect('/Users/index');
 	}
 }
-?>

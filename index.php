@@ -10,4 +10,3 @@
 
 	$TinyMVC = new TinyMVC();
 	$TinyMVC->start();
-?>	

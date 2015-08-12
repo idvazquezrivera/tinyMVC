@@ -12,4 +12,3 @@ class Users extends Controller
 		$this->set('date', date('Y-m-d h:i:s'));
 	}
 }
-?>
